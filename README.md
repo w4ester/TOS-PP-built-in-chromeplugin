@@ -37,6 +37,6 @@ License
 [Specify the license under which this extension is released, e.g., MIT, GPL, etc.]
 
 Author
-Name: [Your Name] Will Forrester
+Name: [Your Name] Will F.
 Email: [your.email@example.com] hit me up and let me know if you do one for perplexity or another browser...happy coding. 
 This README provides all the necessary information for someone to understand what the extension does, how to set it up, and how to contribute to its development. Adjust the sections according to your project's needs, and don't forget to fill in your personal or organizational details in the Author section.
